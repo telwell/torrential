@@ -1,0 +1,2 @@
+aiohttp==3.5.1
+bencode.py==2.0.0
